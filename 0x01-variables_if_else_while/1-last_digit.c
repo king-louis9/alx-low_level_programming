@@ -2,9 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entry point of the last digit of the file
- * Description: showing last digit of the file
- *
+ * main - Entry point
+ * Description: 'showing last digit of a number'
  * Return always 0(Success)
  */
 
