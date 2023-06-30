@@ -1,11 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
- * main - Entry point
- * Description: 'showing last digit of a number'
- * Return always 0(Success)
- */
+* main - Entry point
+* Description: Script showing last digit of a number
+* Return: Always 0(Success)
+*/
 
 int main(void)
 {
@@ -29,4 +30,3 @@ int main(void)
 	}
 	return (0);
 }
-
